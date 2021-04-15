@@ -109,15 +109,15 @@
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
--r:"C:/Users/hcheb/Desktop/Computer Science/CIS-410/Assignment 2/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.analytics@3.5.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Editor.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Tracker.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.cinemachine@2.7.2/Runtime/ThirdParty/clipper_library.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
+-r:"C:/Users/hcheb/Desktop/3D Beginner/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"D:/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Unity/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Unity/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -320,12 +320,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/ArmModels/ArmModelEditor.cs"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/ArmModels/SwingArmModelEditor.cs"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/ArmModels/TransitionArmModelEditor.cs"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/CameraOffsetEditor.cs"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/MenuUtils.cs"
-"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4/Editor/SeedXRInputBindings/SeedXRInputBindings.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/ArmModels/ArmModelEditor.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/ArmModels/SwingArmModelEditor.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/ArmModels/TransitionArmModelEditor.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/CameraOffsetEditor.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/MenuUtils.cs"
+"Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7/Editor/SeedXRInputBindings/SeedXRInputBindings.cs"
 -langversion:8.0
 
 /deterministic
