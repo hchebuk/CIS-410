@@ -5,8 +5,6 @@ using UnityEngine.AI;
 
 public class WaypointPatrol : MonoBehaviour
 {
-	//Need to add script component to ghost but dont know how.
-	/*
     public NavMeshAgent navMeshAgent;
     public Transform[] waypoints;
 
@@ -25,5 +23,4 @@ public class WaypointPatrol : MonoBehaviour
             navMeshAgent.SetDestination (waypoints[m_CurrentWaypointIndex].position);
         }
     }
-    */
 }
