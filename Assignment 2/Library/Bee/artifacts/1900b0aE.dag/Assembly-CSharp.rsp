@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/GameEnding.cs"
 "Assets/Scripts/LightFlicker.cs"
+"Assets/Scripts/LinearInterpolation.cs"
 "Assets/Scripts/Observer.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/WaypointPatrol.cs"

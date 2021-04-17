@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637541920325378841
+      ticks: 637542224496971308
     m_Hash: 2215488283
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -188,10 +188,12 @@ m_ResolvedPackages:
     - 3.5.2
     - 3.6.1
     - 3.7.0
+    - 3.7.1
     compatible:
     - 3.5.2
     - 3.6.1
     - 3.7.0
+    - 3.7.1
     verified: 3.5.2
   dependencies:
   - name: com.unity.ugui
@@ -384,9 +386,13 @@ m_ResolvedPackages:
     - 2.7.1
     - 2.7.2
     - 2.7.3
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
     compatible:
     - 2.7.2
     - 2.7.3
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
     verified: 2.7.3
   dependencies: []
   resolvedDependencies: []
@@ -1124,6 +1130,7 @@ m_ResolvedPackages:
     - 1.5.1
     - 1.5.3
     - 1.5.4
+    - 1.5.5
     - 2.0.0
     - 2.0.1-preview.1
     - 2.0.1
@@ -1143,6 +1150,7 @@ m_ResolvedPackages:
     - 2.1.1
     - 2.1.3
     - 2.1.4
+    - 2.1.5
     - 3.0.0-preview.1
     - 3.0.0-preview.3
     - 3.0.0-preview.4
@@ -1158,9 +1166,11 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.3
     - 3.0.4
+    - 3.0.5
     compatible:
     - 3.0.4
-    verified: 3.0.4
+    - 3.0.5
+    verified: 3.0.5
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1411,7 +1421,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: "Visual Scripting, previously known as BOLT, is an alternative workflow
     to design behaviours. Instead of the classic method of writing a C# script, visual
     scripting offers a way to design behaviours intuitively without code, by connecting
@@ -1423,9 +1433,17 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.5.0
+    - 1.5.1-pre.3
+    - 1.5.1-pre.5
+    - 1.5.1
     - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
     compatible:
     - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
     verified: 1.5.2
   dependencies:
   - name: com.unity.ugui
@@ -1474,7 +1492,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637509974430000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -1510,6 +1528,27 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
     - 2.1.7
     compatible:
     - 2.1.7
@@ -1548,7 +1587,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637434003470000000
   documentationUrl: 
   hasRepository: 1
   repository:
