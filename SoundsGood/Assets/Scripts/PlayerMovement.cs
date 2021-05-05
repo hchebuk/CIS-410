@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     //Don't need right now but would be cool if our character jumped into the lane at start
     void Start()
     {
-        rb.AddForce(0,600f,0);
+        rb.AddForce(0,300f,0);
     }
 
     // Update is called once per frame
